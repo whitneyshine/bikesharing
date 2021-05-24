@@ -22,7 +22,7 @@ This assignment consists of two technical analysis deliverables and a written re
               * How many trips are taken by the hour for each day of the week, for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/TripsByWeekdayPerHour) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CreatetheTripsbyGenderWeekdayperHour).<br>
               * A [breakdown](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/UserTripsbyGenderbyWeekday) of what days of the week a user might be more likely to check out a bike, by type of user and gender.<br>
   * **Deliverable 3: Create a Story and Report for the Final Presentation**<br>
-      * For this part of the Challenge, I have created a story in Tableau as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
+      * For this part of the Challenge, I have created a story in [Tableau](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
 
 ## Results
 
