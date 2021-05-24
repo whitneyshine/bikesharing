@@ -9,7 +9,7 @@ For this analysis, I will use Pandas to change the "tripduration" column from an
    * Show the number of bike trips for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/TripsByWeekdayPerHour) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CreatetheTripsbyGenderWeekdayperHour) for each hour of each day of the week.<br>
    * Show the number of [bike trips](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/UserTripsbyGenderbyWeekday) for each type of user and gender for each day of the week.<br>
  
- Finally, I will add these new visualizations to the two I created in this module for the final presentation and analysis to pitch to investors.<br><br>
+ Finally, I will add these new visualizations to the two I created in this module for the [final presentation](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) and analysis to pitch to investors.<br><br>
  
 ## What I Have Created<br>
 This new assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
@@ -24,4 +24,4 @@ This new assignment consists of two technical analysis deliverables and a writte
   * **Deliverable 3: Create a Story and Report for the Final Presentation**<br>
       * For this part of the Challenge, I have created a story in Tableau as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the module and in Deliverable 2. <br><br>
 
-[NYC Citibike Challenge](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes)
+
