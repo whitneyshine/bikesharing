@@ -22,6 +22,6 @@ This new assignment consists of two technical analysis deliverables and a writte
               * How many trips are taken by the hour for each day of the week, for all riders and genders.<br>
               * A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.<br>
   * **Deliverable 3: Create a Story and Report for the Final Presentation**<br>
-      * For this part of the Challenge, I have created a story in Tableau as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the module and in Deliverable 2. <br><br>
+      * For this part of the Challenge, I have created a story in Tableau as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
 
 
