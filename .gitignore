@@ -1,2 +1,3 @@
-# Ignore the 201908-citibike-tripdata file.
+# Ignore the 201908-citibike-tripdata file and cleaned-citibike-tripdata file.
 201908-citibike-tripdata.csv
+cleaned-citibike-tripdata.csv
