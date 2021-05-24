@@ -12,7 +12,7 @@ For this analysis, I will use Pandas to change the ["tripduration"](https://gith
  Finally, I will add these new visualizations to the two I created in this module for the [final presentation](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) and analysis to pitch to investors.<br><br>
  
 ## What I Have Created<br>
-This new assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
+This assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
 
   * **Deliverable 1: Change Trip Duration to a Datetime Format**<br>
       *  Using Python and Pandas functions, I have converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After I converted the "tripduration" column to a datetime dataytpe, I have exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.<br>
