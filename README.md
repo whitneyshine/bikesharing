@@ -5,9 +5,9 @@ Now that we've gotten a good idea of how to create our story, there is still wor
 
 For this analysis, I will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I will create a set of visualizations to:
 
-   * Show the length of time that bikes are checked out for all riders and genders.<br>
-   * Show the number of bike trips for all riders and genders for each hour of each day of the week.<br>
-   * Show the number of bike trips for each type of user and gender for each day of the week.<br>
+   * Show the length of time that bikes are checked out for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CheckoutTimesforUsers) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CheckoutTimesbyGender).<br>
+   * Show the number of bike trips for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/TripsByWeekdayPerHour) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CreatetheTripsbyGenderWeekdayperHour) for each hour of each day of the week.<br>
+   * Show the number of [bike trips](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/UserTripsbyGenderbyWeekday) for each type of user and gender for each day of the week.<br>
  
  Finally, I will add these new visualizations to the two I created in this module for the final presentation and analysis to pitch to investors.<br><br>
  
