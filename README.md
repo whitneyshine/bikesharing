@@ -11,8 +11,8 @@ For this analysis, I will use Pandas to change the "tripduration" column from an
  
  Finally, I will add these new visualizations to the two I created in this module for the final presentation and analysis to pitch to investors.<br><br>
  
-## What You're Creating<br>
-This new assignment consists of two technical analysis deliverables and a written report to present the results. I will submit the following:
+## What I Have Created<br>
+This new assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
 
   * Deliverable 1: Change Trip Duration to a Datetime Format<br>
   * Deliverable 2: Create Visualizations for the Trip Analysis<br>
