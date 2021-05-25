@@ -43,7 +43,7 @@ In this visualization, I graphed the number of bike trips by gender for each hou
 ![trips_by_gender_weekday_per_hour](trips_by_gender_weekday_per_hour.png)<br><br>
 
 ### User Trips By Gender By Weekday<br>
-In this visualization, I graphed the number of bike trips by gender for each hour for each day of the week as a heatmap.<br>
+In this visualization, I graphed the number of bike trips by gender for each hour for each day of the week as a heatmap.  Male Subscribers are showing a high usage rate during the week - a very consistent theme through our analysis using different visualizations.<br>
 ![user_trips_by_gender_by_weekday](user_trips_by_gender_by_weekday.png)<br><br>
 
 
