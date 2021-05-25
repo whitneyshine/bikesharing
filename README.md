@@ -39,7 +39,7 @@ In this visualization, I graphed the number of bike trips by weekday for each ho
 ![trips_by_weekday_per_hour](trips_by_weekday_per_hour.png)<br><br>
 
 ### Trips By Gender (Weekday Per Hour)<br>
-In this visualization, I graphed the number of bike trips by gender for each hour of each day of the week as a heatmap.<br>
+In this visualization, I graphed the number of bike trips by gender for each hour of each day of the week as a heatmap.  The darker read indicates a high saturation - Males are really using the bikes between 5 PM - 6 PM during the week.<br>
 ![trips_by_gender_weekday_per_hour](trips_by_gender_weekday_per_hour.png)<br><br>
 
 ### User Trips By Gender By Weekday<br>
