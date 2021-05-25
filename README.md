@@ -27,15 +27,15 @@ This assignment consists of two technical analysis deliverables and a written re
 ## Results<br><br>
 
 ### Checkout Times For Users<br>
-In this visualization, I graphed the length of time that bikes are checked out for all riders.<br>
+In this visualization, I graphed the length of time that bikes are checked out for all riders. The visual shows us that most rides last between fifteen to thirty minutes.<br>
 ![checkout_times_for_users](checkout_times_for_users.png)<br><br>
 
 ### Checkout Times By Gender<br>
-In this visualization, I graphed the length of time that bikes are checked out for each gender.<br>
+In this visualization, I graphed the length of time that bikes are checked out for each gender.  This visual reveals that Males are the majority riders by more than 3X.<br>
 ![checkout_times_by_gender](checkout_times_by_gender.png)<br><br>
 
 ### Trips By Weekday For Each Hour<br>
-In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap.<br>
+In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap.  <br>
 ![trips_by_weekday_per_hour](trips_by_weekday_per_hour.png)<br><br>
 
 ### Trips By Gender (Weekday Per Hour)<br>
