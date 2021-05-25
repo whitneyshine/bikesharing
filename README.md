@@ -52,9 +52,9 @@ In this visualization, I graphed the number of bike trips by gender for each hou
 
 ## Summary
 [Des Moines](https://worldpopulationreview.com/en/us-cities/des-moines-ia-population) is the capital and most populous city of Iowa. The five-county metropolitan region has an estimated population of 590,000, ranks 88th in the country, and frequently tops lists as one of the best cities for business and living.  Two additional visualizations I would like to see for future analysis are:<br><br>
-        * <ins>**Revenue per hour by Gender and Weekday**</ins><br>  We might be able to offer specials or buddy rates to increase usage during the weekday and weekends as well as do a better job of engaging the Female demographic.<br><br>
-        * <ins>**Business Partners**</ins><br> Look at Businesses along our routes to see if we can partner with them for ride shares to work or even team building events that could be used to convert their workers as subscribers on a discounted rate.<br><br>
-        * <ins>**Conversion rate of non-subscribers to subscribers for Females**</ins><br>  We need to do a better job of promoting our services to females that would encourage them to buy in to our product and service.<br><br>
+<ins>**Revenue per hour by Gender and Weekday**</ins><br>  We might be able to offer specials or buddy rates to increase usage during the weekday and weekends as well as do a better job of engaging the Female demographic.<br><br>
+<ins>**Business Partners**</ins><br> Look at Businesses along our routes to see if we can partner with them for ride shares to work or even team building events that could be used to convert their workers as subscribers on a discounted rate.<br><br>
+<ins>**Conversion rate of non-subscribers to subscribers for Females**</ins><br>  We need to do a better job of promoting our services to females that would encourage them to buy in to our product and service.<br><br>
     
  As always, thank you for your time and trust on allowing me to work on this project.  Please let me know if you would like to discuss the analysis or data in further detail.
 
