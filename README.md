@@ -35,7 +35,7 @@ In this visualization, I graphed the length of time that bikes are checked out f
 ![checkout_times_by_gender](checkout_times_by_gender.png)<br><br>
 
 ### Trips By Weekday For Each Hour<br>
-In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap.  <br>
+In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap.  The weekdays show us two peak times - first between eight and nine in the morning, then between five and six in the evening.<br>
 ![trips_by_weekday_per_hour](trips_by_weekday_per_hour.png)<br><br>
 
 ### Trips By Gender (Weekday Per Hour)<br>
