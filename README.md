@@ -24,7 +24,26 @@ This assignment consists of two technical analysis deliverables and a written re
   * **Deliverable 3: Create a Story and Report for the Final Presentation**<br>
       * For this part of the Challenge, I have created a story in [Tableau](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
 
-## Results
+## Results<br><br>
+
+### Checkout Times For Users<br>
+![checkout_times_for_users](checkout_times_for_users.png)<br><br>
+
+### Checkout Times By Gender<br>
+![checkout_times_by_gender](checkout_times_by_gender.png)<br><br>
+
+### Trips By Weekday For Each Hour<br>
+![trips_by_weekday_per_hour](trips_by_weekday_per_hour.png)<br><br>
+
+### Trips By Gender (Weekday Per Hour)<br>
+![trips_by_gender_weekday_per_hour](trips_by_gender_weekday_per_hour.png)<br><br>
+
+### User Trips By Gender By Weekday<br>
+![user_trips_by_gender_by_weekday](user_trips_by_gender_by_weekday.png)<br><br>
+
+
+
+### 
 
 ## Summary
 
