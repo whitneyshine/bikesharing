@@ -12,16 +12,19 @@ For this analysis, I will use Pandas to change the ["tripduration"](https://gith
  Finally, I will add these new visualizations to the two I created in this module for the [final presentation](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) and analysis to pitch to investors.<br><br>
  
 ## What I Have Created<br>
-This new assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
+This assignment consists of two technical analysis deliverables and a written report to present the results. I have submitted the following:
 
   * **Deliverable 1: Change Trip Duration to a Datetime Format**<br>
-      *  Using Python and Pandas functions, I have converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After I converted the "tripduration" column to a datetime dataytpe, I have exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.<br>
+      *  Using Python and Pandas functions, I have converted the ["tripduration"](https://github.com/whitneyshine/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb) column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After I converted the "tripduration" column to a datetime dataytpe, I have exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.<br>
   * **Deliverable 2: Create Visualizations for the Trip Analysis**<br>
       *  Using Tableau, create visualizations that show:<br>
-              * How long bikes are checked out for all riders and genders.<br>
-              * How many trips are taken by the hour for each day of the week, for all riders and genders.<br>
-              * A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.<br>
+              * How long bikes are checked out for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CheckoutTimesforUsers) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CheckoutTimesbyGender).<br>
+              * How many trips are taken by the hour for each day of the week, for all [riders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/TripsByWeekdayPerHour) and [genders](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/CreatetheTripsbyGenderWeekdayperHour).<br>
+              * A [breakdown](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/UserTripsbyGenderbyWeekday) of what days of the week a user might be more likely to check out a bike, by type of user and gender.<br>
   * **Deliverable 3: Create a Story and Report for the Final Presentation**<br>
-      * For this part of the Challenge, I have created a story in Tableau as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
+      * For this part of the Challenge, I have created a story in [Tableau](https://public.tableau.com/profile/whitney.shine#!/vizhome/NYCCitibikeChallenge_16218973329460/NYCChallengeStory?publish=yes) as well as a report that describes the key outcomes of the NYC Citibike analysis I did in the [module](https://public.tableau.com/profile/whitney.shine#!/vizhome/Module14-NYCCitibike/NYCStory) and in Deliverable 2. <br><br>
 
+## Results
+
+## Summary
 
